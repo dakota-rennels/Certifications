@@ -1,2 +1,5 @@
 # Certifications
-Repo for storing all academic or professional certifications.
+Repository for storing all my awarded academic or professional certifications.
+
+# Highlighted Awards
+
